@@ -135,6 +135,11 @@ img {
   font-size: 2em;
 }
 
+.site-header-right a:hover{
+  text-decoration: underline;
+}
+
+
 .instagram {
  position: absolute;
   right:0%;
