@@ -183,6 +183,7 @@ button:hover {
 }
 .button:hover {
   opacity: 0.75;
+    background-color: darkgrey;
 }
 .button-primary {
   border: 1px solid #FFFFFF;
